@@ -1,0 +1,5 @@
+
+	Semantic errors
+Green node check - goes up tree, checks for if name used, SEMERR if used
+
+Blue node check - goes up tree but goes to nearest green node
